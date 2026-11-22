@@ -1,0 +1,9 @@
+ai-security-alert-triage/
+├── README.md
+├── requirements.txt
+├── alerts.json                  ← optional (you can also keep it as a list)
+├── triage_assistant.py          ← main Python script
+├── sample_output/
+│   └── security_alert_triage_report.csv
+└── notebook/
+    └── AI_Security_Alert_Triage.ipynb
