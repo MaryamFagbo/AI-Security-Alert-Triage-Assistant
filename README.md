@@ -111,4 +111,6 @@ Add feedback loop for continuous improvement
 Google Gemini API
 Inspired by real SOC automation practices
 
-Maryam Fagbo
+**Maryam Fagbo**
+AI & Cybersecurity Enthusiast
+
